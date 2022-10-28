@@ -9,17 +9,17 @@ Um simples aplicativo sobre despesas pessoais. O aplicativo teve função de ens
 ## Images
 Home Page:
 
-![Login page](/assets/img/home_page.png)
+![Login page](/assets/images/home_page.png)
 
 Home Page with expenses:
 
-![Home page](/assets/img/home_page_with_expenses.png)
+![Home page](/assets/images/home_page_with_expenses.png)
 
 New Expense:
 
-![Finished Orders Page](/assets/img/new_expense.png)
+![Finished Orders Page](/assets/images/new_expense.png)
 
 New Expense Calendar: 
 
-![Finished Orders Page](/assets/img/calendar.png)
+![Finished Orders Page](/assets/images/calendar.png)
 
